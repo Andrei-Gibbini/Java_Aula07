@@ -45,7 +45,7 @@ public class Radio {
         }
     }
 
-    public void deminuitVolume() {
+    public void deminuirVolume() {
         if (volume > 0) {
             volume--;
         }
